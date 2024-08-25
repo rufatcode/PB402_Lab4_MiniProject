@@ -1,0 +1,14 @@
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/bin/Debug/net6.0/Lab4_MiniProject
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/bin/Debug/net6.0/Lab4_MiniProject.deps.json
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/bin/Debug/net6.0/Lab4_MiniProject.runtimeconfig.json
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/bin/Debug/net6.0/Lab4_MiniProject.dll
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/bin/Debug/net6.0/Lab4_MiniProject.pdb
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.dll
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/refint/Lab4_MiniProject.dll
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.pdb
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/Lab4_MiniProject.genruntimeconfig.cache
+/Volumes/Mac/PB-402/Lab4-MiniProject/Lab4_MiniProject/Lab4_MiniProject/obj/Debug/net6.0/ref/Lab4_MiniProject.dll
